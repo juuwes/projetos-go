@@ -1,0 +1,8 @@
+03/04/2023 15:10:04 - https://www.alura.com.br- online: true
+03/04/2023 15:10:04 - https://www.globo.com- online: true
+03/04/2023 15:10:05 - https://www.caelum.com.br- online: true
+03/04/2023 15:10:05 - https://www.casadocodigo.com.br- online: true
+03/04/2023 15:10:11 - https://www.alura.com.br- online: true
+03/04/2023 15:10:11 - https://www.globo.com- online: true
+03/04/2023 15:10:11 - https://www.caelum.com.br- online: true
+03/04/2023 15:10:11 - https://www.casadocodigo.com.br- online: true
