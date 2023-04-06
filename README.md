@@ -2,9 +2,7 @@
 
 <div align="justify">
 
-Neste repositório estão os projetos realizados e os temas abordados até o momento, da trilha sobre a linguagem Go 💙 pela plataforma [Alura](https://www.alura.com.br)	
-
-⚙ *Trilha em andamento*
+Neste repositório estão os projetos realizados e os temas abordados na trilha sobre a linguagem Go 💙 - Primeiros Passos pela plataforma [Alura](https://www.alura.com.br)	
 
 🚩 monitoramento: projeto/script para monitorar sites.
 
